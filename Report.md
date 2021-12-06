@@ -1,4 +1,4 @@
-# Report Neural Network vs. Perceptron.
+# Report of Neural Network vs Perceptron.
 
 ## 1. Plot of Training data
 ![image](https://user-images.githubusercontent.com/34445145/144840348-83a79b58-a104-44d3-bd82-9ffeb0982345.png)
